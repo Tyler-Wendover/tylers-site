@@ -9,3 +9,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(3000);
+
+// In order to update site after changes, run npm run build in client folder
